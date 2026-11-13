@@ -1,0 +1,1576 @@
+{
+  "holdings_as_of": "Thursday, Nov 12, 2026, 2:19 PM ET",
+  "source": "Morningstar snapshot",
+  "models": [
+    {
+      "name": "1 DG 100",
+      "slug": "1-dg-100",
+      "model_share": 0.011920978397550136,
+      "holdings": [
+        {
+          "symbol": "ADT",
+          "name": "ADT Inc",
+          "weight": 0.04772409040986514
+        },
+        {
+          "symbol": "BP",
+          "name": "BP PLC ADR",
+          "weight": 0.04763505336837756
+        },
+        {
+          "symbol": "CHCO",
+          "name": "City Holding Co",
+          "weight": 0.037468298562124996
+        },
+        {
+          "symbol": "DINO",
+          "name": "HF Sinclair Corp",
+          "weight": 0.07561441226767
+        },
+        {
+          "symbol": "EIG",
+          "name": "Employers Holdings Inc",
+          "weight": 0.03832654951375856
+        },
+        {
+          "symbol": "EIX",
+          "name": "Edison International",
+          "weight": 0.046571710197041566
+        },
+        {
+          "symbol": "FAST",
+          "name": "Fastenal Co",
+          "weight": 0.06618716086806438
+        },
+        {
+          "symbol": "FBP",
+          "name": "First BanCorp",
+          "weight": 0.03770985581950826
+        },
+        {
+          "symbol": "HRB",
+          "name": "H&R Block Inc",
+          "weight": 0.05333210145744898
+        },
+        {
+          "symbol": "INFY",
+          "name": "Infosys Ltd ADR",
+          "weight": 0.02505341750144207
+        },
+        {
+          "symbol": "IPAR",
+          "name": "Interparfums Inc",
+          "weight": 0.03697328095215693
+        },
+        {
+          "symbol": "NOG",
+          "name": "Northern Oil & Gas Inc",
+          "weight": 0.05522629956765313
+        },
+        {
+          "symbol": "NVO",
+          "name": "Novo Nordisk AS ADR",
+          "weight": 0.02229487518848929
+        },
+        {
+          "symbol": "NXST",
+          "name": "Nexstar Media Group Inc",
+          "weight": 0.050968486838860995
+        },
+        {
+          "symbol": "OFG",
+          "name": "OFG Bancorp",
+          "weight": 0.04464643178270011
+        },
+        {
+          "symbol": "REPYY",
+          "name": "Repsol SA ADR",
+          "weight": 0.04995842418890324
+        },
+        {
+          "symbol": "RITM",
+          "name": "Rithm Capital Corp",
+          "weight": 0.046354714882137625
+        },
+        {
+          "symbol": "SNSXX",
+          "name": "Schwab U.S. Treasury Money Fund™ Investor Shares",
+          "weight": 0.06247622923547553
+        },
+        {
+          "symbol": "TM",
+          "name": "Toyota Motor Corp ADR",
+          "weight": 0.04365299567842069
+        },
+        {
+          "symbol": "VZ",
+          "name": "Verizon Communications Inc",
+          "weight": 0.04097612182421169
+        },
+        {
+          "symbol": "YUMC",
+          "name": "Yum China Holdings Inc",
+          "weight": 0.04702941254824296
+        },
+        {
+          "symbol": "CASH",
+          "name": "Cash",
+          "weight": 0.023738550592216773
+        }
+      ],
+      "performance": {
+        "view": "Annual",
+        "periods": [
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025",
+          "2026"
+        ],
+        "personal": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          10.43,
+          -9.4,
+          25.78
+        ],
+        "total": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0.87,
+          -9.02,
+          25.47
+        ],
+        "index": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          5.21,
+          17.88,
+          12.37
+        ]
+      }
+    },
+    {
+      "name": "3 LCIAG 100",
+      "slug": "3-lciag-100",
+      "model_share": 0.01640840244330212,
+      "holdings": [
+        {
+          "symbol": "ABBV",
+          "name": "AbbVie Inc",
+          "weight": 0.058829250200272014
+        },
+        {
+          "symbol": "AMGN",
+          "name": "Amgen Inc",
+          "weight": 0.048291771744268984
+        },
+        {
+          "symbol": "CSCO",
+          "name": "Cisco Systems Inc",
+          "weight": 0.06187101000234451
+        },
+        {
+          "symbol": "EXPE",
+          "name": "Expedia Group Inc",
+          "weight": 0.045183025828637445
+        },
+        {
+          "symbol": "HAS",
+          "name": "Hasbro Inc",
+          "weight": 0.04720160019942096
+        },
+        {
+          "symbol": "HD",
+          "name": "The Home Depot Inc",
+          "weight": 0.03345640659033544
+        },
+        {
+          "symbol": "JNJ",
+          "name": "Johnson & Johnson",
+          "weight": 0.06054604389347451
+        },
+        {
+          "symbol": "KO",
+          "name": "Coca-Cola Co",
+          "weight": 0.051809194722592385
+        },
+        {
+          "symbol": "LLY",
+          "name": "Eli Lilly and Co",
+          "weight": 0.059248119309955175
+        },
+        {
+          "symbol": "MCD",
+          "name": "McDonald's Corp",
+          "weight": 0.04503278750632113
+        },
+        {
+          "symbol": "MO",
+          "name": "Altria Group Inc",
+          "weight": 0.04888455766927857
+        },
+        {
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corp",
+          "weight": 0.06284491671484725
+        },
+        {
+          "symbol": "MU",
+          "name": "Micron Technology Inc",
+          "weight": 0.03273108973778231
+        },
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corp",
+          "weight": 0.04860089618634879
+        },
+        {
+          "symbol": "PM",
+          "name": "Philip Morris International Inc",
+          "weight": 0.04360905805993939
+        },
+        {
+          "symbol": "SNDK",
+          "name": "SanDisk Corp Ordinary Shares",
+          "weight": 0.032067199700429316
+        },
+        {
+          "symbol": "SNSXX",
+          "name": "Schwab U.S. Treasury Money Fund™ Investor Shares",
+          "weight": 0.01987373666660627
+        },
+        {
+          "symbol": "STX",
+          "name": "Seagate Technology Holdings PLC",
+          "weight": 0.029767640545925844
+        },
+        {
+          "symbol": "TPR",
+          "name": "Tapestry Inc",
+          "weight": 0.0445181406082449
+        },
+        {
+          "symbol": "TXN",
+          "name": "Texas Instruments Inc",
+          "weight": 0.05137615283375968
+        },
+        {
+          "symbol": "VLO",
+          "name": "Valero Energy Corp",
+          "weight": 0.054522921604833546
+        },
+        {
+          "symbol": "CASH",
+          "name": "Cash",
+          "weight": 0.019748343603622303
+        }
+      ],
+      "performance": {
+        "view": "Trailing 12 Months",
+        "periods": [
+          "Nov '25",
+          "Dec",
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov '26"
+        ],
+        "personal": [
+          3.22,
+          2.02,
+          3.0,
+          4.22,
+          -5.64,
+          4.49,
+          5.51,
+          6.8,
+          -4.94,
+          3.41,
+          1.01,
+          0.88,
+          -2.87
+        ],
+        "total": [
+          3.22,
+          1.91,
+          3.0,
+          4.23,
+          -5.64,
+          4.49,
+          4.89,
+          6.59,
+          -5.08,
+          3.54,
+          1.01,
+          0.88,
+          -3.47
+        ],
+        "index": [
+          0.25,
+          0.06,
+          1.45,
+          -0.76,
+          -4.98,
+          10.49,
+          5.26,
+          -0.95,
+          -0.06,
+          2.72,
+          -0.35,
+          -0.87,
+          0.54
+        ]
+      }
+    },
+    {
+      "name": "4 Income 100",
+      "slug": "4-income-100",
+      "model_share": 0.020729979839305704,
+      "holdings": [
+        {
+          "symbol": "ABBV",
+          "name": "AbbVie Inc",
+          "weight": 0.02569110105983832
+        },
+        {
+          "symbol": "AMGN",
+          "name": "Amgen Inc",
+          "weight": 0.0331278043075533
+        },
+        {
+          "symbol": "APAM",
+          "name": "Artisan Partners Asset Management Inc Class A",
+          "weight": 0.01719959001759
+        },
+        {
+          "symbol": "BBWI",
+          "name": "Bath & Body Works Inc",
+          "weight": 0.01579313435376949
+        },
+        {
+          "symbol": "BBY",
+          "name": "Best Buy Co Inc",
+          "weight": 0.029277442128718547
+        },
+        {
+          "symbol": "BMY",
+          "name": "Bristol-Myers Squibb Co",
+          "weight": 0.027872915014157996
+        },
+        {
+          "symbol": "BP",
+          "name": "BP PLC ADR",
+          "weight": 0.02813394823089287
+        },
+        {
+          "symbol": "BX",
+          "name": "Blackstone Inc",
+          "weight": 0.012306697569088103
+        },
+        {
+          "symbol": "CL",
+          "name": "Colgate-Palmolive Co",
+          "weight": 0.024447376925826204
+        },
+        {
+          "symbol": "CMCSA",
+          "name": "Comcast Corp Class A",
+          "weight": 0.01588173896906493
+        },
+        {
+          "symbol": "CSCO",
+          "name": "Cisco Systems Inc",
+          "weight": 0.030607978142094313
+        },
+        {
+          "symbol": "DRI",
+          "name": "Darden Restaurants Inc",
+          "weight": 0.01992262008465082
+        },
+        {
+          "symbol": "GSK",
+          "name": "GSK PLC ADR",
+          "weight": 0.023938728849179247
+        },
+        {
+          "symbol": "HAS",
+          "name": "Hasbro Inc",
+          "weight": 0.03002262269769925
+        },
+        {
+          "symbol": "HD",
+          "name": "The Home Depot Inc",
+          "weight": 0.020805895645710618
+        },
+        {
+          "symbol": "HPQ",
+          "name": "HP Inc",
+          "weight": 0.021692267750652593
+        },
+        {
+          "symbol": "HRB",
+          "name": "H&R Block Inc",
+          "weight": 0.020722397611554217
+        },
+        {
+          "symbol": "IBM",
+          "name": "International Business Machines Corp",
+          "weight": 0.017336517015046866
+        },
+        {
+          "symbol": "INFY",
+          "name": "Infosys Ltd ADR",
+          "weight": 0.015278347514689435
+        },
+        {
+          "symbol": "ITW",
+          "name": "Illinois Tool Works Inc",
+          "weight": 0.02031256731248077
+        },
+        {
+          "symbol": "KMB",
+          "name": "Kimberly-Clark Corp",
+          "weight": 0.016918592241614735
+        },
+        {
+          "symbol": "KO",
+          "name": "Coca-Cola Co",
+          "weight": 0.0292918111788385
+        },
+        {
+          "symbol": "LMT",
+          "name": "Lockheed Martin Corp",
+          "weight": 0.01967511387540127
+        },
+        {
+          "symbol": "MCD",
+          "name": "McDonald's Corp",
+          "weight": 0.016337202546402117
+        },
+        {
+          "symbol": "MDT",
+          "name": "Medtronic PLC",
+          "weight": 0.023735986712893176
+        },
+        {
+          "symbol": "MO",
+          "name": "Altria Group Inc",
+          "weight": 0.025087057701487624
+        },
+        {
+          "symbol": "NVO",
+          "name": "Novo Nordisk AS ADR",
+          "weight": 0.015479188264381178
+        },
+        {
+          "symbol": "PAYX",
+          "name": "Paychex Inc",
+          "weight": 0.01624680519517489
+        },
+        {
+          "symbol": "PEP",
+          "name": "PepsiCo Inc",
+          "weight": 0.02028008076438349
+        },
+        {
+          "symbol": "PG",
+          "name": "Procter & Gamble Co",
+          "weight": 0.021040037823468638
+        },
+        {
+          "symbol": "PM",
+          "name": "Philip Morris International Inc",
+          "weight": 0.024809726885372845
+        },
+        {
+          "symbol": "SBUX",
+          "name": "Starbucks Corp",
+          "weight": 0.024037437976090228
+        },
+        {
+          "symbol": "SCCO",
+          "name": "Southern Copper Corp",
+          "weight": 0.03561938130075378
+        },
+        {
+          "symbol": "SMG",
+          "name": "The Scotts Miracle Gro Co Class A",
+          "weight": 0.02157199146722887
+        },
+        {
+          "symbol": "SNSXX",
+          "name": "Schwab U.S. Treasury Money Fund™ Investor Shares",
+          "weight": 0.061769259783136535
+        },
+        {
+          "symbol": "TM",
+          "name": "Toyota Motor Corp ADR",
+          "weight": 0.022820985158373823
+        },
+        {
+          "symbol": "TRGP",
+          "name": "Targa Resources Corp",
+          "weight": 0.03729580669830248
+        },
+        {
+          "symbol": "TROW",
+          "name": "T. Rowe Price Group Inc",
+          "weight": 0.020818281821239345
+        },
+        {
+          "symbol": "TXN",
+          "name": "Texas Instruments Inc",
+          "weight": 0.027110513315165854
+        },
+        {
+          "symbol": "UNP",
+          "name": "Union Pacific Corp",
+          "weight": 0.026432533180961646
+        },
+        {
+          "symbol": "VZ",
+          "name": "Verizon Communications Inc",
+          "weight": 0.02255022770734227
+        },
+        {
+          "symbol": "CASH",
+          "name": "Cash",
+          "weight": 0.020745159925354823
+        }
+      ],
+      "performance": {
+        "view": "Annual",
+        "periods": [
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025",
+          "2026"
+        ],
+        "personal": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          -2.64,
+          17.24
+        ],
+        "total": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          -2.33,
+          16.92
+        ],
+        "index": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          5.49,
+          12.37
+        ]
+      }
+    },
+    {
+      "name": "5 Price Momentum 100",
+      "slug": "5-price-momentum-100",
+      "model_share": 0.05483689230822964,
+      "holdings": [
+        {
+          "symbol": "TXG",
+          "name": "10x Genomics Inc Ordinary Shares - Class A",
+          "weight": 0.026092112992753765
+        },
+        {
+          "symbol": "ADPT",
+          "name": "Adaptive Biotechnologies Corp",
+          "weight": 0.023873483077281363
+        },
+        {
+          "symbol": "AMC",
+          "name": "AMC Entertainment Holdings Inc Class A",
+          "weight": 0.023406706820500816
+        },
+        {
+          "symbol": "ATRC",
+          "name": "AtriCure Inc",
+          "weight": 0.020049302202457344
+        },
+        {
+          "symbol": "BB",
+          "name": "BlackBerry Ltd",
+          "weight": 0.021032789445586904
+        },
+        {
+          "symbol": "CDNA",
+          "name": "CareDx Inc",
+          "weight": 0.022220923853079968
+        },
+        {
+          "symbol": "CBRL",
+          "name": "Cracker Barrel Old Country Store Inc",
+          "weight": 0.01680150138935196
+        },
+        {
+          "symbol": "CVI",
+          "name": "CVR Energy Inc",
+          "weight": 0.02151043982916428
+        },
+        {
+          "symbol": "DK",
+          "name": "Delek US Holdings Inc Registered Shs Stock Settlement",
+          "weight": 0.031307504389953784
+        },
+        {
+          "symbol": "ECPG",
+          "name": "Encore Capital Group Inc",
+          "weight": 0.02425507354000472
+        },
+        {
+          "symbol": "P",
+          "name": "Everpure Inc Class A",
+          "weight": 0.01977322876236316
+        },
+        {
+          "symbol": "FTK",
+          "name": "Flotek Industries Inc",
+          "weight": 0.012561741987878686
+        },
+        {
+          "symbol": "GCT",
+          "name": "GigaCloud Technology Inc Class A",
+          "weight": 0.024473500759289238
+        },
+        {
+          "symbol": "GKOS",
+          "name": "Glaukos Corp",
+          "weight": 0.02338847032456958
+        },
+        {
+          "symbol": "GRAL",
+          "name": "GRAIL Inc",
+          "weight": 0.021676046927350666
+        },
+        {
+          "symbol": "HALO",
+          "name": "Halozyme Therapeutics Inc",
+          "weight": 0.018147346574439557
+        },
+        {
+          "symbol": "HPE",
+          "name": "Hewlett Packard Enterprise Co",
+          "weight": 0.02858989683749793
+        },
+        {
+          "symbol": "DINO",
+          "name": "HF Sinclair Corp",
+          "weight": 0.034396393034685384
+        },
+        {
+          "symbol": "IOVA",
+          "name": "Iovance Biotherapeutics Inc",
+          "weight": 0.016100690101453857
+        },
+        {
+          "symbol": "KNSA",
+          "name": "Kiniksa Pharmaceuticals International PLC Class A",
+          "weight": 0.022972994480892905
+        },
+        {
+          "symbol": "LIND",
+          "name": "Lindblad Expeditions Holdings Inc",
+          "weight": 0.02396419321526366
+        },
+        {
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corp",
+          "weight": 0.031638800732704614
+        },
+        {
+          "symbol": "MCS",
+          "name": "Marcus Corp",
+          "weight": 0.009786200702289923
+        },
+        {
+          "symbol": "MXL",
+          "name": "MaxLinear Inc",
+          "weight": 0.0305146891586188
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna Inc",
+          "weight": 0.021248844688204694
+        },
+        {
+          "symbol": "OSCR",
+          "name": "Oscar Health Inc Class A",
+          "weight": 0.019771976030097612
+        },
+        {
+          "symbol": "PARR",
+          "name": "Par Pacific Holdings Inc",
+          "weight": 0.03242506479038863
+        },
+        {
+          "symbol": "PAYC",
+          "name": "Paycom Software Inc",
+          "weight": 0.02079993526865408
+        },
+        {
+          "symbol": "PBF",
+          "name": "PBF Energy Inc Class A",
+          "weight": 0.03476492222329583
+        },
+        {
+          "symbol": "PENG",
+          "name": "Penguin Solutions Inc",
+          "weight": 0.02790463175164932
+        },
+        {
+          "symbol": "PSX",
+          "name": "Phillips 66",
+          "weight": 0.02284687925396302
+        },
+        {
+          "symbol": "PRCH",
+          "name": "Porch Group Inc Ordinary Shares - Class A",
+          "weight": 0.023225697276426566
+        },
+        {
+          "symbol": "QMCO",
+          "name": "Quantum Corp Shs Dlt & Storage Systems Group",
+          "weight": 0.026390550784277145
+        },
+        {
+          "symbol": "SDGR",
+          "name": "Schrodinger Inc Ordinary Shares",
+          "weight": 0.023413032091612104
+        },
+        {
+          "symbol": "TENB",
+          "name": "Tenable Holdings Inc",
+          "weight": 0.024002966305712057
+        },
+        {
+          "symbol": "CAKE",
+          "name": "The Cheesecake Factory Inc",
+          "weight": 0.030844322037213746
+        },
+        {
+          "symbol": "U",
+          "name": "Unity Software Inc Ordinary Shares",
+          "weight": 0.024678661338515675
+        },
+        {
+          "symbol": "VLO",
+          "name": "Valero Energy Corp",
+          "weight": 0.027963941436614875
+        },
+        {
+          "symbol": "VSTS",
+          "name": "Vestis Corporation",
+          "weight": 0.02207932403388415
+        },
+        {
+          "symbol": "VSXY",
+          "name": "Victoria's Secret & Co",
+          "weight": 0.03167449333397544
+        },
+        {
+          "symbol": "CASH",
+          "name": "Cash",
+          "weight": 0.037457331374279125
+        }
+      ],
+      "performance": {
+        "view": "Trailing 12 Months",
+        "periods": [
+          "Nov '25",
+          "Dec",
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov '26"
+        ],
+        "personal": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          4.58,
+          4.1,
+          37.77,
+          -18.4,
+          0.12,
+          11.45,
+          -6.4,
+          -4.25
+        ],
+        "total": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          4.78,
+          31.35,
+          37.77,
+          -36.59,
+          1.21,
+          11.49,
+          -5.16,
+          -6.19
+        ],
+        "index": []
+      }
+    },
+    {
+      "name": "6 FI 100",
+      "slug": "6-fi-100",
+      "model_share": 0.08743837482504367,
+      "holdings": [
+        {
+          "symbol": "BSCX",
+          "name": "Invesco Bulletshares 2033 Corporate Bond ETF",
+          "weight": 0.13790418737578441
+        },
+        {
+          "symbol": "IGLB",
+          "name": "iShares 10+ Year Investment Grade Corporate Bond ETF",
+          "weight": 0.13418682048453914
+        },
+        {
+          "symbol": "SCHP",
+          "name": "Schwab U.S. TIPS ETF",
+          "weight": 0.21259121610260678
+        },
+        {
+          "symbol": "BLV",
+          "name": "Vanguard Long-Term Bond Index Fund ETF Shares",
+          "weight": 0.48951664188585436
+        },
+        {
+          "symbol": "CASH",
+          "name": "Cash",
+          "weight": 0.025759010827194867
+        }
+      ],
+      "performance": {
+        "view": "Trailing 12 Months",
+        "periods": [
+          "Nov '25",
+          "Dec",
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov '26"
+        ],
+        "personal": [
+          0.18,
+          -1.98,
+          0.23,
+          1.92,
+          -2.95,
+          -0.1,
+          0.38,
+          -0.2,
+          -3.23,
+          0.05,
+          -4.36,
+          3.13,
+          -1.65
+        ],
+        "total": [
+          0.22,
+          -1.68,
+          0.12,
+          1.7,
+          -2.72,
+          -0.31,
+          0.41,
+          0.06,
+          -2.94,
+          0.2,
+          -3.75,
+          2.6,
+          -1.24
+        ],
+        "index": []
+      }
+    },
+    {
+      "name": "7 ESG 100",
+      "slug": "7-esg-100",
+      "model_share": 0.014656420494641272,
+      "holdings": [
+        {
+          "symbol": null,
+          "name": "The Organics ETF",
+          "weight": 0.0,
+          "unpriced": true
+        },
+        {
+          "symbol": "ISMD",
+          "name": "Inspire Small/Mid Cap ETF",
+          "weight": 0.14243186913033373
+        },
+        {
+          "symbol": "ERTH",
+          "name": "Invesco MSCI Sustainable Future ETF",
+          "weight": 0.0271887263988751
+        },
+        {
+          "symbol": "CGW",
+          "name": "Invesco S&P Global Water Index ETF",
+          "weight": 0.05449801086866738
+        },
+        {
+          "symbol": "PBW",
+          "name": "Invesco WilderHill Clean Energy ETF",
+          "weight": 0.02812161535521026
+        },
+        {
+          "symbol": "ESML",
+          "name": "iShares ESG Aware MSCI USA Small-Cap ETF",
+          "weight": 0.11491228036474772
+        },
+        {
+          "symbol": "CRBN",
+          "name": "iShares Low Carbon Optimized MSCI ACWI ETF",
+          "weight": 0.617479998232737
+        },
+        {
+          "symbol": "CASH",
+          "name": "Cash",
+          "weight": 0.015367504259680087
+        }
+      ],
+      "performance": {
+        "view": "Trailing 12 Months",
+        "periods": [
+          "Nov '25",
+          "Dec",
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov '26"
+        ],
+        "personal": [
+          0.02,
+          -0.37,
+          3.64,
+          1.17,
+          -5.71,
+          9.62,
+          4.54,
+          0.11,
+          -1.94,
+          1.92,
+          -2.71,
+          -1.04,
+          0.57
+        ],
+        "total": [
+          0.02,
+          -0.37,
+          3.64,
+          1.17,
+          -5.71,
+          9.62,
+          4.54,
+          0.11,
+          -1.94,
+          1.92,
+          -2.71,
+          -1.04,
+          0.57
+        ],
+        "index": []
+      }
+    },
+    {
+      "name": "8 ESG 7030",
+      "slug": "8-esg-7030",
+      "model_share": 0.01596459623648458,
+      "holdings": [
+        {
+          "symbol": null,
+          "name": "Invesco BulletShares 2019 Corp Bd ETF",
+          "weight": 0.0,
+          "unpriced": true
+        },
+        {
+          "symbol": null,
+          "name": "Invesco BulletShares 2024 Corp Bd ETF",
+          "weight": 0.0,
+          "unpriced": true
+        },
+        {
+          "symbol": null,
+          "name": "The Organics ETF",
+          "weight": 0.0,
+          "unpriced": true
+        },
+        {
+          "symbol": "ISMD",
+          "name": "Inspire Small/Mid Cap ETF",
+          "weight": 0.13076067411220452
+        },
+        {
+          "symbol": "ERTH",
+          "name": "Invesco MSCI Sustainable Future ETF",
+          "weight": 0.024960819610644596
+        },
+        {
+          "symbol": "CGW",
+          "name": "Invesco S&P Global Water Index ETF",
+          "weight": 0.050032318486534055
+        },
+        {
+          "symbol": "PBW",
+          "name": "Invesco WilderHill Clean Energy ETF",
+          "weight": 0.02581726549980577
+        },
+        {
+          "symbol": "ESML",
+          "name": "iShares ESG Aware MSCI USA Small-Cap ETF",
+          "weight": 0.10549610375831939
+        },
+        {
+          "symbol": "CRBN",
+          "name": "iShares Low Carbon Optimized MSCI ACWI ETF",
+          "weight": 0.5668822666774924
+        },
+        {
+          "symbol": "CORP",
+          "name": "PIMCO Investment Grade Corporate Bond Exchange-Traded Fund",
+          "weight": 0.040381072448925824
+        },
+        {
+          "symbol": "SCHP",
+          "name": "Schwab U.S. TIPS ETF",
+          "weight": 0.030980036324525707
+        },
+        {
+          "symbol": "CASH",
+          "name": "Cash",
+          "weight": 0.024689447314024445
+        }
+      ],
+      "performance": {
+        "view": "Trailing 12 Months",
+        "periods": [
+          "Nov '25",
+          "Dec",
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov '26"
+        ],
+        "personal": [
+          0.04,
+          -0.45,
+          3.34,
+          1.14,
+          -5.34,
+          8.76,
+          4.15,
+          0.05,
+          -1.9,
+          1.74,
+          -2.72,
+          -0.81,
+          0.41
+        ],
+        "total": [
+          0.04,
+          -0.45,
+          3.34,
+          1.14,
+          -5.34,
+          8.76,
+          4.15,
+          0.05,
+          -1.9,
+          1.74,
+          -2.72,
+          -0.81,
+          0.41
+        ],
+        "index": []
+      }
+    },
+    {
+      "name": "9 Mag 7",
+      "slug": "9-mag-7",
+      "model_share": 0.7460268233765456,
+      "holdings": [
+        {
+          "symbol": "GOOG",
+          "name": "Alphabet Inc Class C",
+          "weight": 0.12919878973830354
+        },
+        {
+          "symbol": "AMZN",
+          "name": "Amazon.com Inc",
+          "weight": 0.15577050462131775
+        },
+        {
+          "symbol": "AAPL",
+          "name": "Apple Inc",
+          "weight": 0.20075211764436027
+        },
+        {
+          "symbol": "META",
+          "name": "Meta Platforms Inc Class A",
+          "weight": 0.13870926070108688
+        },
+        {
+          "symbol": "NFLX",
+          "name": "Netflix Inc",
+          "weight": 0.10514130260812167
+        },
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corp",
+          "weight": 0.11468149507378379
+        },
+        {
+          "symbol": "TSLA",
+          "name": "Tesla Inc",
+          "weight": 0.15566663488314136
+        }
+      ],
+      "performance": {
+        "view": "Trailing 12 Months",
+        "periods": [
+          "Nov '25",
+          "Dec",
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov '26"
+        ],
+        "personal": [
+          -5.2,
+          2.42,
+          0.95,
+          -6.96,
+          -4.79,
+          16.71,
+          4.32,
+          -8.62,
+          -1.24,
+          4.43,
+          1.97,
+          -5.79,
+          0.49
+        ],
+        "total": [
+          -5.2,
+          2.42,
+          0.95,
+          -6.96,
+          -4.79,
+          15.45,
+          4.32,
+          -8.62,
+          -1.24,
+          4.43,
+          1.97,
+          -5.79,
+          0.49
+        ],
+        "index": [
+          0.25,
+          0.06,
+          1.45,
+          -0.76,
+          -4.98,
+          10.49,
+          5.26,
+          -0.95,
+          -0.06,
+          2.72,
+          -0.35,
+          -0.87,
+          0.54
+        ]
+      }
+    },
+    {
+      "name": "New Bond ETF",
+      "slug": "new-bond-etf",
+      "model_share": 0.01076914223722422,
+      "holdings": [
+        {
+          "symbol": "BKAG",
+          "name": "BNY Mellon Core Bond ETF",
+          "weight": 0.21772893282587472
+        },
+        {
+          "symbol": "BSCZ",
+          "name": "Invesco Bulletshares 2035 Corporate Bond ETF",
+          "weight": 0.10107049432246278
+        },
+        {
+          "symbol": "SCHQ",
+          "name": "Schwab Long-Term U.S. Treasury ETF",
+          "weight": 0.2944908673662261
+        },
+        {
+          "symbol": "SCHP",
+          "name": "Schwab U.S. TIPS ETF",
+          "weight": 0.2007072365135942
+        },
+        {
+          "symbol": "SPHY",
+          "name": "State Street® SPDR® Portfolio High Yield Bond Index ETF",
+          "weight": 0.16508783307198763
+        },
+        {
+          "symbol": "CASH",
+          "name": "Cash",
+          "weight": 0.020914628056868965
+        }
+      ],
+      "performance": {
+        "view": "Annual",
+        "periods": [
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025",
+          "2026"
+        ],
+        "personal": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1.69,
+          -5.96
+        ],
+        "total": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1.78,
+          -5.96
+        ],
+        "index": []
+      }
+    },
+    {
+      "name": "New Balanced ETF",
+      "slug": "new-balanced-etf",
+      "model_share": 0.012450388760315545,
+      "holdings": [
+        {
+          "symbol": "GLTR",
+          "name": "abrdn Physical Precious Metals Basket Shares ETF",
+          "weight": 0.026887415163904065
+        },
+        {
+          "symbol": "BKAG",
+          "name": "BNY Mellon Core Bond ETF",
+          "weight": 0.09416388081931093
+        },
+        {
+          "symbol": "BKLC",
+          "name": "BNY Mellon US Large Cap Core Equity ETF",
+          "weight": 0.28440802329465575
+        },
+        {
+          "symbol": "FESM",
+          "name": "Fidelity Enhanced Small Cap Core ETF",
+          "weight": 0.09651539407736347
+        },
+        {
+          "symbol": "BSCZ",
+          "name": "Invesco Bulletshares 2035 Corporate Bond ETF",
+          "weight": 0.04371118646569792
+        },
+        {
+          "symbol": "SCHY",
+          "name": "Schwab International Dividend Equity ETF",
+          "weight": 0.0792578627468131
+        },
+        {
+          "symbol": "SCHQ",
+          "name": "Schwab Long-Term U.S. Treasury ETF",
+          "weight": 0.1273173020364462
+        },
+        {
+          "symbol": "SCHP",
+          "name": "Schwab U.S. TIPS ETF",
+          "weight": 0.08678403662656234
+        },
+        {
+          "symbol": "XLP",
+          "name": "State Street® Consumer Staples Select Sector SPDR® ETF",
+          "weight": 0.07372121397849393
+        },
+        {
+          "symbol": "SPHY",
+          "name": "State Street® SPDR® Portfolio High Yield Bond Index ETF",
+          "weight": 0.07139652789002625
+        },
+        {
+          "symbol": "CASH",
+          "name": "Cash",
+          "weight": 0.0158291064342785
+        }
+      ],
+      "performance": {
+        "view": "Trailing 12 Months",
+        "periods": [
+          "Nov '25",
+          "Dec",
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov '26"
+        ],
+        "personal": [
+          1.04,
+          -0.58,
+          2.17,
+          2.16,
+          -4.61,
+          4.03,
+          1.8,
+          -0.5,
+          -0.93,
+          1.22,
+          -3.2,
+          1.62,
+          -0.33
+        ],
+        "total": [
+          1.04,
+          -0.58,
+          2.17,
+          2.16,
+          -4.61,
+          4.03,
+          1.8,
+          -0.5,
+          -0.93,
+          1.22,
+          -3.2,
+          1.62,
+          -0.33
+        ],
+        "index": []
+      }
+    },
+    {
+      "name": "New Equity ETF",
+      "slug": "new-equity-etf",
+      "model_share": 0.0087980010813575,
+      "holdings": [
+        {
+          "symbol": "GLTR",
+          "name": "abrdn Physical Precious Metals Basket Shares ETF",
+          "weight": 0.04263239485999701
+        },
+        {
+          "symbol": "BKLC",
+          "name": "BNY Mellon US Large Cap Core Equity ETF",
+          "weight": 0.49892804602547575
+        },
+        {
+          "symbol": "FESM",
+          "name": "Fidelity Enhanced Small Cap Core ETF",
+          "weight": 0.15114250235747953
+        },
+        {
+          "symbol": "SCHY",
+          "name": "Schwab International Dividend Equity ETF",
+          "weight": 0.1391234848225935
+        },
+        {
+          "symbol": "XLP",
+          "name": "State Street® Consumer Staples Select Sector SPDR® ETF",
+          "weight": 0.15197566832800652
+        },
+        {
+          "symbol": "CASH",
+          "name": "Cash",
+          "weight": 0.016197903606447673
+        }
+      ],
+      "performance": {
+        "view": "Annual",
+        "periods": [
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025",
+          "2026"
+        ],
+        "personal": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          -16.32
+        ],
+        "total": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "index": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    }
+  ]
+}

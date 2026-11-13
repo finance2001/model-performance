@@ -1,0 +1,40 @@
+name: Update prices
+
+on:
+  schedule:
+    # Every 15 minutes, 13:00–21:45 UTC, Monday–Friday.
+    # Covers the US cash session in both EST and EDT; the script itself
+    # skips (no commit) outside 9:25 AM–4:20 PM America/New_York.
+    # Last in-window run is typically :15 after the 4:00 PM ET close.
+    - cron: "*/15 13-21 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch prices
+        run: python scripts/update_prices.py
+
+      - name: Commit if prices changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/prices.json
+          if git diff --cached --quiet; then
+            echo "No price changes to commit."
+          else
+            git commit -m "Update delayed market prices"
+            git push
+          fi
