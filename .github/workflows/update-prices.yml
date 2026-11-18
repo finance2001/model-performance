@@ -2,11 +2,11 @@ name: Update prices
 
 on:
   schedule:
-    # Every 15 minutes, 13:00–21:45 UTC, Monday–Friday.
+    # Every 5 minutes (GitHub often delays or drops scheduled runs), 13:00–21:45 UTC, Monday–Friday.
     # Covers the US cash session in both EST and EDT; the script itself
     # skips (no commit) outside 9:25 AM–4:20 PM America/New_York.
     # Last in-window run is typically :15 after the 4:00 PM ET close.
-    - cron: "*/15 13-21 * * 1-5"
+    - cron: "*/5 13-21 * * 1-5"
   workflow_dispatch:
 
 permissions:
