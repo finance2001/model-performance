@@ -1,92 +1,92 @@
 {
-  "updated_utc": "2026-11-23T16:33:50Z",
-  "updated_et_label": "Mon Nov 23, 2026, 11:33 AM ET",
+  "updated_utc": "2026-11-23T17:35:20Z",
+  "updated_et_label": "Mon Nov 23, 2026, 12:35 PM ET",
   "market_state": "REGULAR",
   "quotes": {
     "ADT": {
-      "price": 9.905,
+      "price": 9.9,
       "prev_close": 9.87,
-      "change_pct": 0.35460992907801564
+      "change_pct": 0.30395136778116655
     },
     "BP": {
-      "price": 42.73,
+      "price": 42.665,
       "prev_close": 42.75,
-      "change_pct": -0.04678362573100147
+      "change_pct": -0.19883040935672713
     },
     "CHCO": {
-      "price": 138.14,
+      "price": 138.21,
       "prev_close": 136.89,
-      "change_pct": 0.9131419387829645
+      "change_pct": 0.9642778873548262
     },
     "DINO": {
-      "price": 87.9,
+      "price": 88.19,
       "prev_close": 87.39,
-      "change_pct": 0.5835907998626904
+      "change_pct": 0.9154365488042079
     },
     "EIG": {
-      "price": 47.07,
+      "price": 47.11,
       "prev_close": 46.86,
-      "change_pct": 0.4481434058898866
+      "change_pct": 0.5335040546308152
     },
     "EIX": {
-      "price": 62.16,
+      "price": 62.05,
       "prev_close": 62.24,
-      "change_pct": -0.1285347043701886
+      "change_pct": -0.30526992287918514
     },
     "FAST": {
-      "price": 52.215,
+      "price": 52.21,
       "prev_close": 50.61,
-      "change_pct": 3.171310017783055
+      "change_pct": 3.161430547322666
     },
     "FBP": {
-      "price": 24.17,
+      "price": 24.135,
       "prev_close": 23.81,
-      "change_pct": 1.5119697606048006
+      "change_pct": 1.364972700546001
     },
     "HRB": {
-      "price": 45.283,
+      "price": 45.405,
       "prev_close": 46.01,
-      "change_pct": -1.580091284503362
+      "change_pct": -1.3149315366224668
     },
     "INFY": {
-      "price": 11.955,
+      "price": 11.995,
       "prev_close": 12.03,
-      "change_pct": -0.6234413965087223
+      "change_pct": -0.290939318370741
     },
     "IPAR": {
-      "price": 137.075,
+      "price": 136.905,
       "prev_close": 137.42,
-      "change_pct": -0.25105515936544814
+      "change_pct": -0.3747634987629067
     },
     "NOG": {
-      "price": 22.395,
+      "price": 22.25,
       "prev_close": 22.69,
-      "change_pct": -1.300132216835618
+      "change_pct": -1.939180255619221
     },
     "NVO": {
-      "price": 39.035,
+      "price": 39.065,
       "prev_close": 37.82,
-      "change_pct": 3.212585933368578
+      "change_pct": 3.2919090428344724
     },
     "NXST": {
-      "price": 200.45,
+      "price": 200.165,
       "prev_close": 196.13,
-      "change_pct": 2.2026207107530684
+      "change_pct": 2.0573089277519996
     },
     "OFG": {
-      "price": 48.19,
+      "price": 48.03,
       "prev_close": 47.85,
-      "change_pct": 0.7105538140020821
+      "change_pct": 0.3761755485893411
     },
     "REPYY": {
-      "price": 30.27,
+      "price": 30.46,
       "prev_close": 31.34,
-      "change_pct": -3.414167198468412
+      "change_pct": -2.8079132099553252
     },
     "RITM": {
-      "price": 8.275,
+      "price": 8.204,
       "prev_close": 8.05,
-      "change_pct": 2.7950310559006164
+      "change_pct": 1.9130434782608685
     },
     "SNSXX": {
       "price": 1.0,
@@ -94,449 +94,449 @@
       "change_pct": 0.0
     },
     "TM": {
-      "price": 211.92,
+      "price": 212.24,
       "prev_close": 207.49,
-      "change_pct": 2.135042652657949
+      "change_pct": 2.2892669526242226
     },
     "VZ": {
-      "price": 46.085,
+      "price": 45.92,
       "prev_close": 46.48,
-      "change_pct": -0.8498278829604045
+      "change_pct": -1.2048192771084234
     },
     "YUMC": {
-      "price": 50.395,
+      "price": 50.42,
       "prev_close": 49.81,
-      "change_pct": 1.1744629592451332
+      "change_pct": 1.2246536839991957
     },
     "ABBV": {
-      "price": 289.02,
+      "price": 287.53,
       "prev_close": 286.2,
-      "change_pct": 0.9853249475890962
+      "change_pct": 0.46470999301187427
     },
     "AMGN": {
-      "price": 452.125,
+      "price": 450.08,
       "prev_close": 435.64,
-      "change_pct": 3.7840877789000125
+      "change_pct": 3.31466348361032
     },
     "CSCO": {
-      "price": 96.16,
+      "price": 96.54,
       "prev_close": 90.64,
-      "change_pct": 6.0900264783759885
+      "change_pct": 6.509267431597535
     },
     "EXPE": {
-      "price": 238.145,
+      "price": 239.02,
       "prev_close": 234.96,
-      "change_pct": 1.3555498808307807
+      "change_pct": 1.72795369424583
     },
     "HAS": {
-      "price": 114.865,
+      "price": 114.26,
       "prev_close": 112.41,
-      "change_pct": 2.183969397740413
+      "change_pct": 1.6457610532870819
     },
     "HD": {
-      "price": 346.455,
+      "price": 346.115,
       "prev_close": 339.04,
-      "change_pct": 2.1870575743275023
+      "change_pct": 2.086774421897118
     },
     "JNJ": {
-      "price": 270.89,
+      "price": 270.835,
       "prev_close": 270.47,
-      "change_pct": 0.15528524420451773
+      "change_pct": 0.1349502717491597
     },
     "KO": {
-      "price": 96.215,
+      "price": 95.705,
       "prev_close": 96.99,
-      "change_pct": -0.79905144860294
+      "change_pct": -1.324878853490047
     },
     "LLY": {
-      "price": 1379.985,
+      "price": 1364.93,
       "prev_close": 1347.11,
-      "change_pct": 2.4404094691599054
+      "change_pct": 1.3228318400130774
     },
     "MCD": {
-      "price": 275.37,
+      "price": 275.03,
       "prev_close": 273.24,
-      "change_pct": 0.7795344751866474
+      "change_pct": 0.6551017420582504
     },
     "MO": {
-      "price": 73.955,
+      "price": 73.75,
       "prev_close": 74.87,
-      "change_pct": -1.2221183384533274
+      "change_pct": -1.4959262722051616
     },
     "MPC": {
-      "price": 361.045,
+      "price": 363.29,
       "prev_close": 367.19,
-      "change_pct": -1.6735205207113433
+      "change_pct": -1.062120428116228
     },
     "MU": {
-      "price": 710.215,
+      "price": 711.59,
       "prev_close": 594.51,
-      "change_pct": 19.462246219575793
+      "change_pct": 19.693529124825492
     },
     "NVDA": {
-      "price": 165.745,
+      "price": 166.57,
       "prev_close": 125.53,
-      "change_pct": 32.03616665338963
+      "change_pct": 32.69338006850951
     },
     "PM": {
-      "price": 184.04,
+      "price": 183.49,
       "prev_close": 184.09,
-      "change_pct": -0.027160627953724467
+      "change_pct": -0.3259275354446164
     },
     "SNDK": {
-      "price": 92.05,
+      "price": 91.465,
       "prev_close": 79.24,
-      "change_pct": 16.166077738515906
+      "change_pct": 15.427814235234742
     },
     "STX": {
-      "price": 523.637,
+      "price": 522.775,
       "prev_close": 457.01,
-      "change_pct": 14.578893240848112
+      "change_pct": 14.390275923940393
     },
     "TPR": {
-      "price": 124.515,
+      "price": 125.58,
       "prev_close": 120.02,
-      "change_pct": 3.745209131811369
+      "change_pct": 4.632561239793369
     },
     "TXN": {
-      "price": 291.805,
+      "price": 290.83,
       "prev_close": 263.75,
-      "change_pct": 10.636966824644551
+      "change_pct": 10.267298578199046
     },
     "VLO": {
-      "price": 334.495,
+      "price": 334.93,
       "prev_close": 334.18,
-      "change_pct": 0.09426057813154519
+      "change_pct": 0.22442994793225207
     },
     "APAM": {
-      "price": 34.22,
+      "price": 34.34,
       "prev_close": 33.3,
-      "change_pct": 2.762762762762768
+      "change_pct": 3.123123123123142
     },
     "BBWI": {
-      "price": 19.53,
+      "price": 19.675,
       "prev_close": 18.66,
-      "change_pct": 4.66237942122187
+      "change_pct": 5.439442658092179
     },
     "BBY": {
-      "price": 98.965,
+      "price": 99.85,
       "prev_close": 97.95,
-      "change_pct": 1.0362429811128133
+      "change_pct": 1.939765186319542
     },
     "BMY": {
-      "price": 59.62,
+      "price": 59.545,
       "prev_close": 58.8,
-      "change_pct": 1.3945578231292521
+      "change_pct": 1.2670068027210961
     },
     "BX": {
-      "price": 117.075,
+      "price": 116.64,
       "prev_close": 110.8,
-      "change_pct": 5.6633574007220275
+      "change_pct": 5.270758122743686
     },
     "CL": {
-      "price": 98.75,
+      "price": 98.51,
       "prev_close": 98.71,
-      "change_pct": 0.04052274338973382
+      "change_pct": -0.2026137169486259
     },
     "CMCSA": {
-      "price": 24.689,
+      "price": 24.505,
       "prev_close": 24.9,
-      "change_pct": -0.8473895582329258
+      "change_pct": -1.5863453815261028
     },
     "DRI": {
-      "price": 231.855,
+      "price": 230.28,
       "prev_close": 225.74,
-      "change_pct": 2.708868609905192
+      "change_pct": 2.011163285195354
     },
     "GSK": {
-      "price": 48.21,
+      "price": 48.26,
       "prev_close": 47.76,
-      "change_pct": 0.9422110552763879
+      "change_pct": 1.0469011725293134
     },
     "HPQ": {
-      "price": 28.53,
+      "price": 28.915,
       "prev_close": 27.96,
-      "change_pct": 2.038626609442061
+      "change_pct": 3.41559370529327
     },
     "IBM": {
-      "price": 233.527,
+      "price": 233.51,
       "prev_close": 224.44,
-      "change_pct": 4.048743539476025
+      "change_pct": 4.041169132062018
     },
     "ITW": {
-      "price": 280.795,
+      "price": 280.745,
       "prev_close": 273.57,
-      "change_pct": 2.6410059582556653
+      "change_pct": 2.622729100413061
     },
     "KMB": {
-      "price": 107.68,
+      "price": 107.33,
       "prev_close": 106.38,
-      "change_pct": 1.2220342169580856
+      "change_pct": 0.8930250047001342
     },
     "LMT": {
-      "price": 571.305,
+      "price": 571.32,
       "prev_close": 565.5,
-      "change_pct": 1.0265251989389832
+      "change_pct": 1.0291777188329
     },
     "MDT": {
-      "price": 100.43,
+      "price": 100.83,
       "prev_close": 99.94,
-      "change_pct": 0.4902941765059126
+      "change_pct": 0.890534320592356
     },
     "PAYX": {
-      "price": 111.901,
+      "price": 111.91,
       "prev_close": 112.63,
-      "change_pct": -0.6472520642812742
+      "change_pct": -0.6392612980555793
     },
     "PEP": {
-      "price": 140.33,
+      "price": 139.605,
       "prev_close": 140.54,
-      "change_pct": -0.1494236516294148
+      "change_pct": -0.6652910203500799
     },
     "PG": {
-      "price": 170.406,
+      "price": 169.85,
       "prev_close": 169.37,
-      "change_pct": 0.611678573537227
+      "change_pct": 0.2834032000944617
     },
     "SBUX": {
-      "price": 105.732,
+      "price": 105.47,
       "prev_close": 103.13,
-      "change_pct": 2.5230291864636905
+      "change_pct": 2.268980897895863
     },
     "SCCO": {
-      "price": 144.1,
+      "price": 144.535,
       "prev_close": 134.02,
-      "change_pct": 7.521265482763755
+      "change_pct": 7.845843903894931
     },
     "SMG": {
-      "price": 60.635,
+      "price": 60.715,
       "prev_close": 58.6,
-      "change_pct": 3.4726962457337827
+      "change_pct": 3.60921501706485
     },
     "TRGP": {
-      "price": 282.467,
+      "price": 281.755,
       "prev_close": 278.3,
-      "change_pct": 1.4973050664750174
+      "change_pct": 1.2414660438375795
     },
     "TROW": {
-      "price": 104.525,
+      "price": 104.24,
       "prev_close": 100.99,
-      "change_pct": 3.500346568967235
+      "change_pct": 3.2181404099415785
     },
     "UNP": {
-      "price": 290.15,
+      "price": 289.63,
       "prev_close": 287.29,
-      "change_pct": 0.9955097636534361
+      "change_pct": 0.814507988443724
     },
     "TXG": {
-      "price": 57.84,
+      "price": 57.745,
       "prev_close": 51.8,
-      "change_pct": 11.660231660231673
+      "change_pct": 11.476833976833978
     },
     "ADPT": {
-      "price": 29.115,
+      "price": 29.14,
       "prev_close": 27.93,
-      "change_pct": 4.242749731471532
+      "change_pct": 4.332259219477268
     },
     "AMC": {
-      "price": 2.78,
+      "price": 2.76,
       "prev_close": 2.57,
-      "change_pct": 8.171206225680933
+      "change_pct": 7.392996108949415
     },
     "ATRC": {
-      "price": 57.015,
+      "price": 56.98,
       "prev_close": 55.39,
-      "change_pct": 2.9337425528073657
+      "change_pct": 2.8705542516699696
     },
     "BB": {
-      "price": 8.46,
+      "price": 8.525,
       "prev_close": 7.77,
-      "change_pct": 8.880308880308897
+      "change_pct": 9.716859716859727
     },
     "CDNA": {
-      "price": 74.74,
+      "price": 75.36,
       "prev_close": 70.0,
-      "change_pct": 6.771428571428564
+      "change_pct": 7.657142857142857
     },
     "CBRL": {
-      "price": 72.83,
+      "price": 72.62,
       "prev_close": 70.75,
-      "change_pct": 2.939929328621906
+      "change_pct": 2.6431095406360487
     },
     "CVI": {
-      "price": 33.07,
+      "price": 32.94,
       "prev_close": 32.85,
-      "change_pct": 0.6697108066971046
+      "change_pct": 0.27397260273971474
     },
     "DK": {
-      "price": 58.7,
+      "price": 58.445,
       "prev_close": 59.8,
-      "change_pct": -1.8394648829431341
+      "change_pct": -2.265886287625413
     },
     "ECPG": {
-      "price": 102.29,
+      "price": 102.9,
       "prev_close": 100.66,
-      "change_pct": 1.6193125372541324
+      "change_pct": 2.2253129346314418
     },
     "P": {
-      "price": 101.655,
+      "price": 102.02,
       "prev_close": 92.05,
-      "change_pct": 10.434546442151008
+      "change_pct": 10.831070070613796
     },
     "FTK": {
-      "price": 22.76,
+      "price": 22.8,
       "prev_close": 21.67,
-      "change_pct": 5.029995385325334
+      "change_pct": 5.2145823719427735
     },
     "GCT": {
-      "price": 64.145,
+      "price": 65.66,
       "prev_close": 57.82,
-      "change_pct": 10.939121411276368
+      "change_pct": 13.5593220338983
     },
     "GKOS": {
-      "price": 252.5,
+      "price": 249.44,
       "prev_close": 237.31,
-      "change_pct": 6.400910201845686
+      "change_pct": 5.111457587122327
     },
     "GRAL": {
-      "price": 105.97,
+      "price": 105.65,
       "prev_close": 99.25,
-      "change_pct": 6.770780856423173
+      "change_pct": 6.448362720403028
     },
     "HALO": {
-      "price": 94.74,
+      "price": 94.17,
       "prev_close": 91.35,
-      "change_pct": 3.7110016420361256
+      "change_pct": 3.0870279146141297
     },
     "HPE": {
-      "price": 46.29,
+      "price": 47.25,
       "prev_close": 40.91,
-      "change_pct": 13.150818870691769
+      "change_pct": 15.497433390369112
     },
     "IOVA": {
-      "price": 6.645,
+      "price": 6.59,
       "prev_close": 6.9,
-      "change_pct": -3.6956521739130546
+      "change_pct": -4.492753623188412
     },
     "KNSA": {
-      "price": 98.215,
+      "price": 98.38,
       "prev_close": 93.895,
-      "change_pct": 4.60088396613239
+      "change_pct": 4.77661217317216
     },
     "LIND": {
-      "price": 32.5,
+      "price": 32.32,
       "prev_close": 30.26,
-      "change_pct": 7.402511566424318
+      "change_pct": 6.807666886979506
     },
     "MCS": {
-      "price": 25.71,
+      "price": 25.68,
       "prev_close": 25.67,
-      "change_pct": 0.15582391897155878
+      "change_pct": 0.038955979742882785
     },
     "MXL": {
-      "price": 50.78,
+      "price": 51.27,
       "prev_close": 41.45,
-      "change_pct": 22.50904704463208
+      "change_pct": 23.691194209891435
     },
     "MRNA": {
-      "price": 211.04,
+      "price": 210.63,
       "prev_close": 195.0,
-      "change_pct": 8.225641025641021
+      "change_pct": 8.015384615384614
     },
     "OSCR": {
-      "price": 26.03,
+      "price": 25.97,
       "prev_close": 24.73,
-      "change_pct": 5.256773150020221
+      "change_pct": 5.014152850788509
     },
     "PARR": {
-      "price": 63.19,
+      "price": 63.09,
       "prev_close": 63.53,
-      "change_pct": -0.5351802298126923
+      "change_pct": -0.6925861797575913
     },
     "PAYC": {
-      "price": 241.71,
+      "price": 243.43,
       "prev_close": 241.265,
-      "change_pct": 0.1844444904980091
+      "change_pct": 0.8973535324228631
     },
     "PBF": {
-      "price": 60.369,
+      "price": 60.31,
       "prev_close": 61.46,
-      "change_pct": -1.7751383013342028
+      "change_pct": -1.871135698014967
     },
     "PENG": {
-      "price": 42.56,
+      "price": 42.76,
       "prev_close": 36.05,
-      "change_pct": 18.05825242718448
+      "change_pct": 18.61303744798891
     },
     "PSX": {
-      "price": 239.21,
+      "price": 239.295,
       "prev_close": 239.33,
-      "change_pct": -0.050139974094348616
+      "change_pct": -0.014624159110861575
     },
     "PRCH": {
-      "price": 21.39,
+      "price": 21.33,
       "prev_close": 19.88,
-      "change_pct": 7.5955734406438715
+      "change_pct": 7.293762575452713
     },
     "QMCO": {
-      "price": 13.152,
+      "price": 13.205,
       "prev_close": 11.48,
-      "change_pct": 14.564459930313578
+      "change_pct": 15.02613240418118
     },
     "SDGR": {
-      "price": 24.73,
+      "price": 24.66,
       "prev_close": 22.93,
-      "change_pct": 7.849978194505018
+      "change_pct": 7.544701264718712
     },
     "TENB": {
-      "price": 45.24,
+      "price": 45.55,
       "prev_close": 41.99,
-      "change_pct": 7.739938080495355
+      "change_pct": 8.478209097404132
     },
     "CAKE": {
-      "price": 109.14,
+      "price": 108.18,
       "prev_close": 107.945,
-      "change_pct": 1.1070452545277756
+      "change_pct": 0.21770346009543162
     },
     "U": {
-      "price": 47.3,
+      "price": 47.19,
       "prev_close": 44.75,
-      "change_pct": 5.6983240223463625
+      "change_pct": 5.452513966480442
     },
     "VSTS": {
-      "price": 13.9,
+      "price": 14.035,
       "prev_close": 13.68,
-      "change_pct": 1.6081871345029288
+      "change_pct": 2.595029239766085
     },
     "VSXY": {
-      "price": 94.116,
+      "price": 94.66,
       "prev_close": 94.57,
-      "change_pct": -0.48006767473828227
+      "change_pct": 0.09516760071904772
     },
     "BSCX": {
-      "price": 20.2873,
+      "price": 20.255,
       "prev_close": 20.24923,
-      "change_pct": 0.18800714891379872
+      "change_pct": 0.02849491067066884
     },
     "IGLB": {
-      "price": 46.803,
+      "price": 46.695,
       "prev_close": 46.56,
-      "change_pct": 0.5219072164948346
+      "change_pct": 0.2899484536082431
     },
     "SCHP": {
-      "price": 25.43,
+      "price": 25.41,
       "prev_close": 25.46,
-      "change_pct": -0.11783189316575465
+      "change_pct": -0.19638648860958643
     },
     "BLV": {
-      "price": 64.97,
+      "price": 64.856,
       "prev_close": 64.75,
-      "change_pct": 0.339768339768338
+      "change_pct": 0.16370656370655526
     },
     "ISMD": {
-      "price": 44.471,
+      "price": 44.343,
       "prev_close": 43.33,
-      "change_pct": 2.633279483037153
+      "change_pct": 2.33787214401109
     },
     "ERTH": {
       "price": 38.2626,
@@ -544,74 +544,74 @@
       "change_pct": 3.9654160507781997
     },
     "CGW": {
-      "price": 63.64,
+      "price": 63.473,
       "prev_close": 62.58,
-      "change_pct": 1.6938318951741809
+      "change_pct": 1.4269734739533408
     },
     "PBW": {
-      "price": 22.01,
+      "price": 21.945,
       "prev_close": 20.69,
-      "change_pct": 6.37989366843886
+      "change_pct": 6.065732237796031
     },
     "ESML": {
-      "price": 51.47,
+      "price": 51.465,
       "prev_close": 49.89,
-      "change_pct": 3.166967328121865
+      "change_pct": 3.156945279615159
     },
     "CRBN": {
-      "price": 241.09,
+      "price": 240.77,
       "prev_close": 229.35,
-      "change_pct": 5.118814039677353
+      "change_pct": 4.9792892958360655
     },
     "CORP": {
-      "price": 93.12,
+      "price": 92.98,
       "prev_close": 92.9176,
-      "change_pct": 0.2178274083704395
+      "change_pct": 0.06715627609840429
     },
     "GOOG": {
-      "price": 280.34,
+      "price": 281.39,
       "prev_close": 264.0,
-      "change_pct": 6.18939393939393
+      "change_pct": 6.587121212121207
     },
     "AMZN": {
-      "price": 256.91,
+      "price": 258.12,
       "prev_close": 246.82,
-      "change_pct": 4.087999351754328
+      "change_pct": 4.57823515112228
     },
     "AAPL": {
-      "price": 348.612,
+      "price": 348.75,
       "prev_close": 342.56,
-      "change_pct": 1.7666978047641348
+      "change_pct": 1.8069827183559077
     },
     "META": {
-      "price": 594.26,
+      "price": 596.64,
       "prev_close": 560.84,
-      "change_pct": 5.95891876471007
+      "change_pct": 6.383282219527843
     },
     "NFLX": {
-      "price": 57.95,
+      "price": 57.65,
       "prev_close": 56.73,
-      "change_pct": 2.1505376344086127
+      "change_pct": 1.6217169046359983
     },
     "TSLA": {
-      "price": 390.565,
+      "price": 389.77,
       "prev_close": 345.82,
-      "change_pct": 12.938812098779714
+      "change_pct": 12.708923717540916
     },
     "BKAG": {
-      "price": 40.66,
+      "price": 40.61,
       "prev_close": 40.655,
-      "change_pct": 0.012298610257029769
+      "change_pct": -0.11068749231337277
     },
     "BSCZ": {
-      "price": 19.5564,
+      "price": 19.525,
       "prev_close": 19.51687,
-      "change_pct": 0.20254272329527828
+      "change_pct": 0.041656269678476875
     },
     "SCHQ": {
-      "price": 29.675,
+      "price": 29.638,
       "prev_close": 29.64,
-      "change_pct": 0.11808367071525015
+      "change_pct": -0.006747638326581955
     },
     "SPHY": {
       "price": 22.355,
@@ -619,14 +619,14 @@
       "change_pct": 0.4719101123595525
     },
     "GLTR": {
-      "price": 153.63,
+      "price": 152.945,
       "prev_close": 146.45,
-      "change_pct": 4.902697166268356
+      "change_pct": 4.43496073745306
     },
     "BKLC": {
-      "price": 46.165,
+      "price": 46.185,
       "prev_close": 44.03,
-      "change_pct": 4.848966613672491
+      "change_pct": 4.894390188507838
     },
     "FESM": {
       "price": 43.23,
@@ -634,14 +634,14 @@
       "change_pct": 3.2974910394265122
     },
     "SCHY": {
-      "price": 31.72,
+      "price": 31.715,
       "prev_close": 31.54,
-      "change_pct": 0.5707038681039941
+      "change_pct": 0.5548509828788862
     },
     "XLP": {
-      "price": 90.475,
+      "price": 90.26,
       "prev_close": 90.46,
-      "change_pct": 0.016581914658413188
+      "change_pct": -0.22109219544548822
     }
   }
 }
