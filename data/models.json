@@ -94,7 +94,7 @@
         },
         {
           "symbol": "SNSXX",
-          "name": "Schwab U.S. Treasury Money Fund™ Investor Shares",
+          "name": "Schwab U.S. Treasury Money Fund\u2122 Investor Shares",
           "weight": 0.06247622923547553
         },
         {
@@ -261,7 +261,7 @@
         },
         {
           "symbol": "SNSXX",
-          "name": "Schwab U.S. Treasury Money Fund™ Investor Shares",
+          "name": "Schwab U.S. Treasury Money Fund\u2122 Investor Shares",
           "weight": 0.01987373666660627
         },
         {
@@ -531,7 +531,7 @@
         },
         {
           "symbol": "SNSXX",
-          "name": "Schwab U.S. Treasury Money Fund™ Investor Shares",
+          "name": "Schwab U.S. Treasury Money Fund\u2122 Investor Shares",
           "weight": 0.061769259783136535
         },
         {
@@ -632,209 +632,209 @@
       "model_share": 0.05483689230822964,
       "holdings": [
         {
-          "symbol": "TXG",
-          "name": "10x Genomics Inc Ordinary Shares - Class A",
-          "weight": 0.026092112992753765
-        },
-        {
           "symbol": "ADPT",
           "name": "Adaptive Biotechnologies Corp",
-          "weight": 0.023873483077281363
+          "weight": 0.025636141811665316
         },
         {
           "symbol": "AMC",
           "name": "AMC Entertainment Holdings Inc Class A",
-          "weight": 0.023406706820500816
+          "weight": 0.02465185231323901
         },
         {
           "symbol": "ATRC",
           "name": "AtriCure Inc",
-          "weight": 0.020049302202457344
+          "weight": 0.02186666625263596
         },
         {
           "symbol": "BB",
           "name": "BlackBerry Ltd",
-          "weight": 0.021032789445586904
-        },
-        {
-          "symbol": "CDNA",
-          "name": "CareDx Inc",
-          "weight": 0.022220923853079968
-        },
-        {
-          "symbol": "CBRL",
-          "name": "Cracker Barrel Old Country Store Inc",
-          "weight": 0.01680150138935196
-        },
-        {
-          "symbol": "CVI",
-          "name": "CVR Energy Inc",
-          "weight": 0.02151043982916428
-        },
-        {
-          "symbol": "DK",
-          "name": "Delek US Holdings Inc Registered Shs Stock Settlement",
-          "weight": 0.031307504389953784
-        },
-        {
-          "symbol": "ECPG",
-          "name": "Encore Capital Group Inc",
-          "weight": 0.02425507354000472
-        },
-        {
-          "symbol": "P",
-          "name": "Everpure Inc Class A",
-          "weight": 0.01977322876236316
-        },
-        {
-          "symbol": "FTK",
-          "name": "Flotek Industries Inc",
-          "weight": 0.012561741987878686
-        },
-        {
-          "symbol": "GCT",
-          "name": "GigaCloud Technology Inc Class A",
-          "weight": 0.024473500759289238
-        },
-        {
-          "symbol": "GKOS",
-          "name": "Glaukos Corp",
-          "weight": 0.02338847032456958
-        },
-        {
-          "symbol": "GRAL",
-          "name": "GRAIL Inc",
-          "weight": 0.021676046927350666
-        },
-        {
-          "symbol": "HALO",
-          "name": "Halozyme Therapeutics Inc",
-          "weight": 0.018147346574439557
-        },
-        {
-          "symbol": "HPE",
-          "name": "Hewlett Packard Enterprise Co",
-          "weight": 0.02858989683749793
-        },
-        {
-          "symbol": "DINO",
-          "name": "HF Sinclair Corp",
-          "weight": 0.034396393034685384
-        },
-        {
-          "symbol": "IOVA",
-          "name": "Iovance Biotherapeutics Inc",
-          "weight": 0.016100690101453857
-        },
-        {
-          "symbol": "KNSA",
-          "name": "Kiniksa Pharmaceuticals International PLC Class A",
-          "weight": 0.022972994480892905
-        },
-        {
-          "symbol": "LIND",
-          "name": "Lindblad Expeditions Holdings Inc",
-          "weight": 0.02396419321526366
-        },
-        {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corp",
-          "weight": 0.031638800732704614
-        },
-        {
-          "symbol": "MCS",
-          "name": "Marcus Corp",
-          "weight": 0.009786200702289923
-        },
-        {
-          "symbol": "MXL",
-          "name": "MaxLinear Inc",
-          "weight": 0.0305146891586188
-        },
-        {
-          "symbol": "MRNA",
-          "name": "Moderna Inc",
-          "weight": 0.021248844688204694
-        },
-        {
-          "symbol": "OSCR",
-          "name": "Oscar Health Inc Class A",
-          "weight": 0.019771976030097612
-        },
-        {
-          "symbol": "PARR",
-          "name": "Par Pacific Holdings Inc",
-          "weight": 0.03242506479038863
-        },
-        {
-          "symbol": "PAYC",
-          "name": "Paycom Software Inc",
-          "weight": 0.02079993526865408
-        },
-        {
-          "symbol": "PBF",
-          "name": "PBF Energy Inc Class A",
-          "weight": 0.03476492222329583
-        },
-        {
-          "symbol": "PENG",
-          "name": "Penguin Solutions Inc",
-          "weight": 0.02790463175164932
-        },
-        {
-          "symbol": "PSX",
-          "name": "Phillips 66",
-          "weight": 0.02284687925396302
-        },
-        {
-          "symbol": "PRCH",
-          "name": "Porch Group Inc Ordinary Shares - Class A",
-          "weight": 0.023225697276426566
-        },
-        {
-          "symbol": "QMCO",
-          "name": "Quantum Corp Shs Dlt & Storage Systems Group",
-          "weight": 0.026390550784277145
-        },
-        {
-          "symbol": "SDGR",
-          "name": "Schrodinger Inc Ordinary Shares",
-          "weight": 0.023413032091612104
-        },
-        {
-          "symbol": "TENB",
-          "name": "Tenable Holdings Inc",
-          "weight": 0.024002966305712057
+          "weight": 0.02138387144310143
         },
         {
           "symbol": "CAKE",
           "name": "The Cheesecake Factory Inc",
-          "weight": 0.030844322037213746
+          "weight": 0.034781775604461614
+        },
+        {
+          "symbol": "CBRL",
+          "name": "Cracker Barrel Old Country Store Inc",
+          "weight": 0.021416955845041157
+        },
+        {
+          "symbol": "CDNA",
+          "name": "CareDx Inc",
+          "weight": 0.023599750065495244
+        },
+        {
+          "symbol": "CRCT",
+          "name": "Cricut Inc Class A",
+          "weight": 0.024833005967476274
+        },
+        {
+          "symbol": "CVI",
+          "name": "CVR Energy Inc",
+          "weight": 0.017716959813342783
+        },
+        {
+          "symbol": "DINO",
+          "name": "HF Sinclair Corp",
+          "weight": 0.031588251763120065
+        },
+        {
+          "symbol": "DK",
+          "name": "Delek US Holdings Inc Registered Shs Stock Settlement",
+          "weight": 0.026445465283822387
+        },
+        {
+          "symbol": "ECPG",
+          "name": "Encore Capital Group Inc",
+          "weight": 0.024694709057504618
+        },
+        {
+          "symbol": "FTK",
+          "name": "Flotek Industries Inc",
+          "weight": 0.01271591796292145
+        },
+        {
+          "symbol": "GCT",
+          "name": "GigaCloud Technology Inc Class A",
+          "weight": 0.026113936287159273
+        },
+        {
+          "symbol": "GKOS",
+          "name": "Glaukos Corp",
+          "weight": 0.027387583015248917
+        },
+        {
+          "symbol": "GRAL",
+          "name": "GRAIL Inc",
+          "weight": 0.02075029030478155
+        },
+        {
+          "symbol": "HALO",
+          "name": "Halozyme Therapeutics Inc",
+          "weight": 0.01880657598267866
+        },
+        {
+          "symbol": "HPE",
+          "name": "Hewlett Packard Enterprise Co",
+          "weight": 0.025175654428421408
+        },
+        {
+          "symbol": "IOVA",
+          "name": "Iovance Biotherapeutics Inc",
+          "weight": 0.016233961200239084
+        },
+        {
+          "symbol": "KNSA",
+          "name": "Kiniksa Pharmaceuticals International PLC Class A",
+          "weight": 0.02708276813195329
+        },
+        {
+          "symbol": "LIND",
+          "name": "Lindblad Expeditions Holdings Inc",
+          "weight": 0.024922692324149325
+        },
+        {
+          "symbol": "MCS",
+          "name": "Marcus Corp",
+          "weight": 0.010380830463697187
+        },
+        {
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corp",
+          "weight": 0.029213367084750915
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna Inc",
+          "weight": 0.022301855142195116
+        },
+        {
+          "symbol": "MXL",
+          "name": "MaxLinear Inc",
+          "weight": 0.02385175320159516
+        },
+        {
+          "symbol": "OSCR",
+          "name": "Oscar Health Inc Class A",
+          "weight": 0.018720154684306076
+        },
+        {
+          "symbol": "P",
+          "name": "Everpure Inc Class A",
+          "weight": 0.018626792282973058
+        },
+        {
+          "symbol": "PAYC",
+          "name": "Paycom Software Inc",
+          "weight": 0.0230514029316205
+        },
+        {
+          "symbol": "PBF",
+          "name": "PBF Energy Inc Class A",
+          "weight": 0.030660495721700494
+        },
+        {
+          "symbol": "PENG",
+          "name": "Penguin Solutions Inc",
+          "weight": 0.022761337892115804
+        },
+        {
+          "symbol": "PRCH",
+          "name": "Porch Group Inc Ordinary Shares - Class A",
+          "weight": 0.025786220330609302
+        },
+        {
+          "symbol": "PSX",
+          "name": "Phillips 66",
+          "weight": 0.022605277238383552
+        },
+        {
+          "symbol": "QMCO",
+          "name": "Quantum Corp Shs Dlt & Storage Systems Group",
+          "weight": 0.02170966946330707
+        },
+        {
+          "symbol": "SDGR",
+          "name": "Schrodinger Inc Ordinary Shares",
+          "weight": 0.020661471585978555
+        },
+        {
+          "symbol": "TENB",
+          "name": "Tenable Holdings Inc",
+          "weight": 0.029464982067066853
+        },
+        {
+          "symbol": "TXG",
+          "name": "10x Genomics Inc Ordinary Shares - Class A",
+          "weight": 0.027572663872476963
         },
         {
           "symbol": "U",
           "name": "Unity Software Inc Ordinary Shares",
-          "weight": 0.024678661338515675
+          "weight": 0.026602804561784196
         },
         {
           "symbol": "VLO",
           "name": "Valero Energy Corp",
-          "weight": 0.027963941436614875
+          "weight": 0.026571912087095133
         },
         {
           "symbol": "VSTS",
           "name": "Vestis Corporation",
-          "weight": 0.02207932403388415
+          "weight": 0.02464109817016543
         },
         {
           "symbol": "VSXY",
           "name": "Victoria's Secret & Co",
-          "weight": 0.03167449333397544
+          "weight": 0.030162014932778387
         },
         {
           "symbol": "CASH",
           "name": "Cash",
-          "weight": 0.037457331374279125
+          "weight": 0.046849111426941446
         }
       ],
       "performance": {
@@ -885,7 +885,8 @@
           -6.19
         ],
         "index": []
-      }
+      },
+      "holdings_note": "Updated Nov 25, 2026 for trades: sold PARR, bought CRCT"
     },
     {
       "name": "6 FI 100",
@@ -1316,7 +1317,7 @@
         },
         {
           "symbol": "SPHY",
-          "name": "State Street® SPDR® Portfolio High Yield Bond Index ETF",
+          "name": "State Street\u00ae SPDR\u00ae Portfolio High Yield Bond Index ETF",
           "weight": 0.16508783307198763
         },
         {
@@ -1416,12 +1417,12 @@
         },
         {
           "symbol": "XLP",
-          "name": "State Street® Consumer Staples Select Sector SPDR® ETF",
+          "name": "State Street\u00ae Consumer Staples Select Sector SPDR\u00ae ETF",
           "weight": 0.07372121397849393
         },
         {
           "symbol": "SPHY",
-          "name": "State Street® SPDR® Portfolio High Yield Bond Index ETF",
+          "name": "State Street\u00ae SPDR\u00ae Portfolio High Yield Bond Index ETF",
           "weight": 0.07139652789002625
         },
         {
@@ -1507,7 +1508,7 @@
         },
         {
           "symbol": "XLP",
-          "name": "State Street® Consumer Staples Select Sector SPDR® ETF",
+          "name": "State Street\u00ae Consumer Staples Select Sector SPDR\u00ae ETF",
           "weight": 0.15197566832800652
         },
         {
